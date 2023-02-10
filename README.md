@@ -3,4 +3,5 @@ This script can be used to take any given file that's X pages long, and convert 
 Usage:
 
 `python pdfCropper.py {inputFile.pdf} {outputFile.pdf} [optional set of pages to skip]`
-example: `python pdfCropper.py myScannedBook.pdf myParsedBook.pdf 0 2 5 6`
+
+Example: `python pdfCropper.py myScannedBook.pdf myParsedBook.pdf 0 2 5 6`
